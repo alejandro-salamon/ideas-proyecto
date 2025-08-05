@@ -1,3 +1,5 @@
 idea 1: hacer unna web
 idea 2: hacer una app
 idea 3: hacer un juego
+idea 4: crear una IA
+idea 5: hacer un robot
